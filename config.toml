@@ -1,11 +1,22 @@
+# Set site variables
+title = "Your Amazing, Clever, Professional Title for your Manuscript"
+
 baseURL = "https://danielroelfs.github.io/manuscript-site-template/"
 github = "https://danielroelfs.github.io/manuscript-site-template/"
 languageCode = "en-us"
-title = "Your Amazing, Clever, Professional Title for your Manuscript"
-theme = "dimension"
-publishDir = "docs"
 
+theme = "dimension"
+
+publishDir = "docs"
 staticDir = ["files"]
+
+# Set other variables
+[params]
+  pubtitle = "The awesome, clever, professional title of your publication"
+  authors = "You, John Doe, Jane Doe, another colleague, that one person who did nothing, that person the PI made you add, and your boss"
+  email = "daniel.roelfs@medisin.uio.no"
+  github = "https://github.com/danielroelfs"
+  twitter = "https://twitter.com/dthroelfs"
 
 # Menu links
 [[menu.main]]
@@ -25,6 +36,6 @@ staticDir = ["files"]
     url = "code"
     weight = 4
 [[menu.main]]
-    name = "GitHub"
-    url = "github"
-    weight = 4
+    name = "About"
+    url = "about"
+    weight = 5

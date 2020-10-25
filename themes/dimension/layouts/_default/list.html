@@ -8,31 +8,21 @@
             <!-- Header -->
                 <header id="header">
                     <div class="logo">
-                        <a href="/"><span class="icon fa-file-alt"></span></a>
+                        <a style="border-bottom-color: transparent;" href="{{ .Site.BaseURL }}"><span class="icon fa-brain"></span></a>
                     </div>
                     <div class="content">
                         <div class="inner">
-                            <h1>{{ .Title | default "Title" }}</h1>
-                            {{ if .Params.description }}
+                            <h1>{{ .Site.Params.pubtitle | default "Scientific Title" }}</h1>
+                            <authors>{{ .Site.Params.authors | default "John Doe et al." }}</authors>
+                            {{ if .Site.Params.description }}
                             <p>
-                                {{ .Params.description }}
+                                {{ .Site.Params.description }}
                             </p>
                             {{ end }}
                         </div>
                     </div>
                     <nav>
-                        <ul><!--
-                            {{ range .Pages.ByDate }}
-                                {{if .Title }}
-                                    {{if .Content}}
-                                        <li>
-                                            <a href="#{{ cond (in (.Title|urlize) "%") (.Title | base64Encode) (.Title) | urlize }}">{{ .Title }}</a>
-                                        </li>
-                                    {{ else }}
-                                        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-                                    {{ end }}
-                                {{ end }}
-                            {{ end }}-->
+                        <ul>
                             {{ with .Site.Menus.main}}
                                 {{ range sort . }}
                                     <li>

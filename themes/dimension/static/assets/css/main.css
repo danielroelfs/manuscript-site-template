@@ -1335,6 +1335,11 @@ input, select, textarea {
 				line-height: 2;
 			}
 
+			#header authors { /* DR: define style for author list */
+				text-transform: normal;
+				font-style: italic;
+			}
+
 		#header nav ul {
 			display: -moz-flex;
 			display: -webkit-flex;
@@ -1636,9 +1641,9 @@ input, select, textarea {
 		text-align: center;
 	}
 
-		#footer .copyright {
-			letter-spacing: 0.2rem;
-			font-size: 0.6rem;
+		#footer .social {
+			letter-spacing: 0.3rem; /* DR: was 0.2rem */
+			font-size: 1rem; /* DR: was 0.6rem */
 			opacity: 0.75;
 			margin-bottom: 0;
 			text-transform: uppercase;
