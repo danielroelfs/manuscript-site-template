@@ -17,9 +17,9 @@
 		margin-top: 2rem;
 		text-align: center;
 
-		.copyright {
+		.social {
 			letter-spacing: _font(letter-spacing);
-			font-size: 0.6rem;
+			font-size: 1rem; /* DR: was 1rem */
 			opacity: 0.75;
 			margin-bottom: 0;
 			text-transform: uppercase;
