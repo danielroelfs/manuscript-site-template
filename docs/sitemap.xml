@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://danielroelfs.github.io/manuscript-site-template/github/</loc>
+    <lastmod>2020-10-25T14:37:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielroelfs.github.io/manuscript-site-template/data/</loc>
+    <lastmod>2020-10-25T13:33:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielroelfs.github.io/manuscript-site-template/summary/</loc>
+    <lastmod>2020-10-25T13:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielroelfs.github.io/manuscript-site-template/paper-and-preprint/</loc>
+    <lastmod>2020-10-25T13:33:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielroelfs.github.io/manuscript-site-template/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielroelfs.github.io/manuscript-site-template/code/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielroelfs.github.io/manuscript-site-template/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielroelfs.github.io/manuscript-site-template/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,30 @@
+baseURL = "https://danielroelfs.github.io/manuscript-site-template/"
+github = "https://danielroelfs.github.io/manuscript-site-template/"
+languageCode = "en-us"
+title = "Your Amazing, Clever, Professional Title for your Manuscript"
+theme = "dimension"
+publishDir = "docs"
+
+staticDir = ["files"]
+
+# Menu links
+[[menu.main]]
+    name = "Paper + Preprint"
+    url  = "paper-and-preprint"
+    weight = 1
+[[menu.main]]
+    name = "Summary"
+    url = "summary"    
+    weight = 2
+[[menu.main]]
+    name = "Data"
+    url = "data"
+    weight = 3
+[[menu.main]]
+    name = "Code"
+    url = "code"
+    weight = 4
+[[menu.main]]
+    name = "GitHub"
+    url = "github"
+    weight = 4
