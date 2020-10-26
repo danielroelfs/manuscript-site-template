@@ -8,13 +8,13 @@ Here is where we can store the data from the publication. Ideally, you'd link al
 
 Here's an example of how to link to files in this page:
 
-For instance: [here's a csv file](data/mtcars.csv)
+For instance: [here's a csv file](files/mtcars.csv)
 
-And [here's a plain text file](data/plain_text.txt)
+And [here's a plain text file](files/plain_text.txt)
 
 This link is generated like this:
 
-    [here's a csv file](data/mtcars.csv)
+    [here's a csv file](files/mtcars.csv)
 
 Here's how you can link to for instance a file on OSF:
 
