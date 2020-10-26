@@ -1,7 +1,7 @@
 ---
-title: "Summary"
-date: 2020-10-25T13:33:11+01:00
-draft: true
+title: Summary
+author: Daniel Roelfs
+date: 2020-10-25
 ---
 
 Popular scientific summaries are very important, and not often appreciated enough. Personally, I'll always write one because I can't be bothered to explain to my parents, grandparents, or friends not in science what the hell I've been doing for the past few months. Summarizing your project quickly and in a manner that is understandable for every lay person is worth the effort, believe me! 
