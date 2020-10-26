@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://danielroelfs.github.io/manuscript-site-template/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielroelfs.github.io/manuscript-site-template/code/</loc>
+    <loc>/code/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielroelfs.github.io/manuscript-site-template/data/</loc>
+    <loc>/data/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielroelfs.github.io/manuscript-site-template/paper-and-preprint/</loc>
+    <loc>/paper-and-preprint/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielroelfs.github.io/manuscript-site-template/summary/</loc>
+    <loc>/summary/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://danielroelfs.github.io/manuscript-site-template/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://danielroelfs.github.io/manuscript-site-template/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>https://danielroelfs.github.io/manuscript-site-template/</loc>
+    <loc>/</loc>
   </url>
   
 </urlset>

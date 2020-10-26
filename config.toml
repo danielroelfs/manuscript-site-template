@@ -1,6 +1,6 @@
 # Set site variables
 title = "Your Amazing, Clever, Professional Title for your Manuscript"
-baseURL = "https://danielroelfs.github.io/manuscript-site-template/"
+baseURL = "/"
 github = "https://github.com/danielroelfs/manuscript-site-template"
 
 # Mandatory settings
