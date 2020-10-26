@@ -9,51 +9,51 @@
     <item>
       <title>About</title>
       <link>https://danielroelfs.github.io/manuscript-site-template/about/</link>
-      <pubDate>Sun, 25 Oct 2020 14:37:13 +0100</pubDate>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://danielroelfs.github.io/manuscript-site-template/about/</guid>
       <description>You could use this space to talk a bit about yourself, your research group, whoever you need to thank, etc. You could also put a link to the project&amp;rsquo;s GitHub repo, OSF page, research group website, and guide the reader where to look to learn more about the project and so on.
- © Design: d-asnaghi  and HTML5 UP .</description>
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>https://danielroelfs.github.io/manuscript-site-template/data/</link>
-      <pubDate>Sun, 25 Oct 2020 13:33:15 +0100</pubDate>
-      
-      <guid>https://danielroelfs.github.io/manuscript-site-template/data/</guid>
-      <description>Here is where we can store the data from the publication. Ideally, you&amp;rsquo;d link all files necessary to rerun the analyses using the scripts from the code  section of this website. Be aware that the file limit for GitHub respositories is 100MB, so if you want to upload files larger than that (e.g. GWAS summary statistics) you&amp;rsquo;d need to link it to somewhere else, for instance Open Science Framework  (file size limit of 50GB) or Academic Torrents  (no limit).</description>
-    </item>
-    
-    <item>
-      <title>Summary</title>
-      <link>https://danielroelfs.github.io/manuscript-site-template/summary/</link>
-      <pubDate>Sun, 25 Oct 2020 13:33:11 +0100</pubDate>
-      
-      <guid>https://danielroelfs.github.io/manuscript-site-template/summary/</guid>
-      <description>Popular scientific summaries are very important, and not often appreciated enough. Personally, I&amp;rsquo;ll always write one because I can&amp;rsquo;t be bothered to explain to my parents, grandparents, or friends not in science what the hell I&amp;rsquo;ve been doing for the past few months. Summarizing your project quickly and in a manner that is understandable for every lay person is worth the effort, believe me!
-Here, you can use figures, tables, etc.</description>
-    </item>
-    
-    <item>
-      <title>Paper and Preprint</title>
-      <link>https://danielroelfs.github.io/manuscript-site-template/paper-and-preprint/</link>
-      <pubDate>Sun, 25 Oct 2020 13:33:03 +0100</pubDate>
-      
-      <guid>https://danielroelfs.github.io/manuscript-site-template/paper-and-preprint/</guid>
-      <description>The home page has direct links to the paper and the preprint, so this page exists just to offer the same link after you&amp;rsquo;ve left the landing page. I&amp;rsquo;d recommend to make sections for the different versions of the manuscript online. Obviously, there are the final paper and the preprint, but perhaps you&amp;rsquo;ve also pre-registered your study, in which case you could link it here too to collect all versions and stages of the manuscript in one page.</description>
+ © Design: d-asnaghi  and HTML5 UP . Adapted by Daniel Roelfs</description>
     </item>
     
     <item>
       <title>Code</title>
       <link>https://danielroelfs.github.io/manuscript-site-template/code/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://danielroelfs.github.io/manuscript-site-template/code/</guid>
       <description>This page serves to document the code associated with your paper. I’d recommend not to copy-paste the code from your scripts verbatim in here, but instead to use this page to document the organization of the different scripts.
 For instance, here’s an R script that does some stuff: here’s an R script 
 And for good measure, here’s a Python script: here’s a Python script 
 I recommend that you use simple markdown to write this document.</description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://danielroelfs.github.io/manuscript-site-template/data/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielroelfs.github.io/manuscript-site-template/data/</guid>
+      <description>Here is where we can store the data from the publication. Ideally, you&amp;rsquo;d link all files necessary to rerun the analyses using the scripts from the code  section of this website. Be aware that the file limit for GitHub respositories is 100MB, so if you want to upload files larger than that (e.g. GWAS summary statistics) you&amp;rsquo;d need to link it to somewhere else, for instance Open Science Framework  (file size limit of 50GB) or Academic Torrents  (no limit).</description>
+    </item>
+    
+    <item>
+      <title>Paper and Preprint</title>
+      <link>https://danielroelfs.github.io/manuscript-site-template/paper-and-preprint/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielroelfs.github.io/manuscript-site-template/paper-and-preprint/</guid>
+      <description>The home page has direct links to the paper and the preprint, so this page exists just to offer the same link after you&amp;rsquo;ve left the landing page. I&amp;rsquo;d recommend to make sections for the different versions of the manuscript online. Obviously, there are the final paper and the preprint, but perhaps you&amp;rsquo;ve also pre-registered your study, in which case you could link it here too to collect all versions and stages of the manuscript in one page.</description>
+    </item>
+    
+    <item>
+      <title>Summary</title>
+      <link>https://danielroelfs.github.io/manuscript-site-template/summary/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielroelfs.github.io/manuscript-site-template/summary/</guid>
+      <description>Popular scientific summaries are very important, and not often appreciated enough. Personally, I&amp;rsquo;ll always write one because I can&amp;rsquo;t be bothered to explain to my parents, grandparents, or friends not in science what the hell I&amp;rsquo;ve been doing for the past few months. Summarizing your project quickly and in a manner that is understandable for every lay person is worth the effort, believe me!
+Here, you can use figures, tables, etc.</description>
     </item>
     
   </channel>
