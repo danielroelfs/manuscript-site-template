@@ -6,6 +6,7 @@ github = "https://github.com/danielroelfs/manuscript-site-template"
 # Mandatory settings
 languageCode = "en-us"
 theme = "dimension"
+relativeURLs = true
 publishDir = "docs"
 staticDir = ["files"]
 
