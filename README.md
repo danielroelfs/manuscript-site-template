@@ -2,10 +2,10 @@
 
 A GitHub Pages theme for sharing everything around a manuscript or publication. Predefined sections for preprint, popular summary, data, and code. Organize the data and code you want to publicly share in an easy and flexible way. You control the space, everything is connected to GitHub. Better organization to document pipelines and annotate data files. Especially useful if you have a large number of scripts and files that you need to document.
 
-* [x] Fully editable in Markdown
-* [x] Compatible with Rmarkdown
 * [x] Light-weight
 * [x] Customizable
+* [x] Fully editable in Markdown
+* [x] Compatible with Rmarkdown
 
 ---
 

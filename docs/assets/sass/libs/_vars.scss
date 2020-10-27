@@ -32,12 +32,12 @@
 // Palette.
 	$palette: (
 		bg:							#1b1f22,
-		bg-alt:						#000000,
-		bg-overlay:					rgba(19,21,25,0.5),
-		fg:							#ffffff,
-		fg-bold:					#ffffff,
-		fg-light:					rgba(255,255,255,0.5),
-		border:						#ffffff,
-		border-bg:					rgba(255,255,255,0.075),
-		border-bg-alt:				rgba(255,255,255,0.175)
+		bg-alt:						var(--text),
+		///bg-overlay:					rgba(19,21,25,0.5),
+		fg:							var(--text),
+		fg-bold:					var(--text),
+		fg-light:					rgba(var(--rgbtext),var(--rgbtext),var(--rgbtext),0.5),
+		border:						var(--text),
+		border-bg:					rgba(ar(--rgbtext),var(--rgbtext),var(--rgbtext),0.075),
+		border-bg-alt:				rgba(ar(--rgbtext),var(--rgbtext),var(--rgbtext),0.175)
 	);

@@ -18,6 +18,7 @@ staticDir = ["files"]
   email = "daniel.roelfs@medisin.uio.no"
   github = "https://github.com/danielroelfs"
   twitter = "https://twitter.com/dthroelfs"
+  dark = true
 
 # Menu links
 [[menu.main]]
