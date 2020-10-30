@@ -4,6 +4,7 @@ author: Daniel Roelfs
 date: 2020-10-25
 ---
 
+
 The home page has direct links to the paper and the preprint, so this page exists just to offer the same link after you've left the landing page.
 I'd recommend to make sections for the different versions of the manuscript online. Obviously, there are the final paper and the preprint, but perhaps you've also pre-registered your study, in which case you could link it here too to collect all versions and stages of the manuscript in one page. If appropriate, you could also add reviewer's comments to the different stages to collect a full history of the submission/revision cycle!
 

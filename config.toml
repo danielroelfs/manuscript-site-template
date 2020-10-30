@@ -1,12 +1,12 @@
 # Set site variables
-title = "Your Amazing, Clever, Professional Title for your Manuscript"
+title = "Your Short Article Title"
 baseURL = "/"
+relativeURLs = true
 github = "https://github.com/danielroelfs/manuscript-site-template"
 
 # Mandatory settings
 languageCode = "en-us"
 theme = "dimension"
-relativeURLs = true
 publishDir = "docs"
 staticDir = ["files"]
 
@@ -18,7 +18,9 @@ staticDir = ["files"]
   email = "daniel.roelfs@medisin.uio.no"
   github = "https://github.com/danielroelfs"
   twitter = "https://twitter.com/dthroelfs"
-  dark = true
+  paper = "https://www.journals.elsevier.com/neuroimage/"
+  preprint = "https://www.biorxiv.org"
+  dark = false
 
 # Menu links
 [[menu.main]]

@@ -1601,7 +1601,7 @@ input, select, textarea {
 				}
 
 				#main article .close:hover:before {
-					background-color: rgba(var(--rgbtext), var(--rgbtext), var(--rgbtext), 0.075); /* DR: was 255, 255, 255, 0.075 */
+					background-color: rgba(var(--accentrgb), var(--accentrgb), var(--accentrgb), 0.075); /* DR: was 255, 255, 255, 0.075 */
 				}
 
 				#main article .close:active:before {
