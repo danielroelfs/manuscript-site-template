@@ -21,6 +21,7 @@ staticDir = ["files"]
   paper = "https://www.journals.elsevier.com/neuroimage/"
   preprint = "https://www.biorxiv.org"
   dark = false
+  background = "images/bg_light.jpg"
 
 # Menu links
 [[menu.main]]
